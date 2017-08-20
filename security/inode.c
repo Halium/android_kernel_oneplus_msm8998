@@ -21,6 +21,7 @@
 #include <linux/namei.h>
 #include <linux/security.h>
 #include <linux/magic.h>
+#include <linux/namei.h>
 
 static struct vfsmount *mount;
 static int mount_count;
